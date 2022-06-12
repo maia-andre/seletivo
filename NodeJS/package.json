@@ -1,0 +1,27 @@
+{
+  "name": "form-nodejs",
+  "version": "1.0.0",
+  "description": "Pacote para testes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maia-andre/seletivo.git"
+  },
+  "keywords": [
+    "url",
+    "formulario",
+    "seletivo"
+  ],
+  "author": "Andre Maia Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maia-andre/seletivo/issues"
+  },
+  "homepage": "https://github.com/maia-andre/seletivo#readme",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
