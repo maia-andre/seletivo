@@ -37,6 +37,7 @@ ul {
 
 a {
     text-decoration: none;
+    color: rgb(8, 2, 44);
 }
 
 .container {
@@ -103,7 +104,7 @@ footer ul {
 
 footer ul li {
     padding: 12px;
-    font-size: 1.1rem;
+    font-size: 1.7rem;
 }
 
 footer ul li a {
